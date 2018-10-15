@@ -4,3 +4,4 @@ Smart Dots genetic algorith tutorial.
 Saksham Sharma
 Avni Bhardwaj
 Pankaj M. Patidar
+..........................................................
